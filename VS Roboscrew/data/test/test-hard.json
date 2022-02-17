@@ -1,0 +1,3477 @@
+{
+	"song": {
+		"player1": "bf",
+		"events": [],
+		"gfVersion": "gf",
+		"notes": [
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						12800,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						13200,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						13600,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						14000,
+						3,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						14400,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						14800,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						15200,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						15600,
+						3,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						16000,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						16200,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						16400,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						16600,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						16800,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						17000,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						17200,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						17400,
+						3,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						17600,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						17800,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						18000,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						18200,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						18400,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						18600,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						18800,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						19000,
+						3,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						19200,
+						0,
+						300,
+						"Wrench Note"
+					],
+					[
+						19600,
+						1,
+						300,
+						"Wrench Note"
+					],
+					[
+						20000,
+						2,
+						300,
+						"Wrench Note"
+					],
+					[
+						20400,
+						3,
+						300,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						20800,
+						0,
+						300,
+						"Wrench Note"
+					],
+					[
+						21200,
+						1,
+						300,
+						"Wrench Note"
+					],
+					[
+						21600,
+						2,
+						300,
+						"Wrench Note"
+					],
+					[
+						22000,
+						3,
+						300,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						22400,
+						0,
+						700,
+						"Wrench Note"
+					],
+					[
+						22800,
+						1,
+						300,
+						"Wrench Note"
+					],
+					[
+						23200,
+						2,
+						700,
+						"Wrench Note"
+					],
+					[
+						23600,
+						3,
+						300,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						24000,
+						0,
+						700,
+						"Wrench Note"
+					],
+					[
+						24400,
+						1,
+						300,
+						"Wrench Note"
+					],
+					[
+						24800,
+						2,
+						700,
+						"Wrench Note"
+					],
+					[
+						25200,
+						3,
+						300,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						25600,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						25600,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						26400,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						26400,
+						3,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						27200,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						27200,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						27600,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						27600,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						28000,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						28200,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						28400,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						28400,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						28200,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						28000,
+						3,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						28800,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						28800,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						29600,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						29600,
+						3,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						30400,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						30800,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						31200,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						31400,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						31600,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						31600,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						31400,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						31200,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						30800,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						30400,
+						0,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						32000,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						32100,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						32400,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						32500,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						32800,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						32900,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						33200,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						33300,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						33400,
+						3,
+						100,
+						"Wrench Note"
+					],
+					[
+						33000,
+						0,
+						100,
+						"Wrench Note"
+					],
+					[
+						32600,
+						3,
+						100,
+						"Wrench Note"
+					],
+					[
+						32200,
+						0,
+						100,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						33600,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						33700,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						34000,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						34100,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						34400,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						34500,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						34800,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						34900,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						35000,
+						1,
+						100,
+						"Wrench Note"
+					],
+					[
+						34600,
+						2,
+						100,
+						"Wrench Note"
+					],
+					[
+						34200,
+						1,
+						100,
+						"Wrench Note"
+					],
+					[
+						33800,
+						2,
+						100,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						35200,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						35300,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						35600,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						35700,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						36000,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						36100,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						36400,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						36500,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						36600,
+						3,
+						100,
+						"Wrench Note"
+					],
+					[
+						36200,
+						0,
+						100,
+						"Wrench Note"
+					],
+					[
+						35800,
+						3,
+						100,
+						"Wrench Note"
+					],
+					[
+						35400,
+						0,
+						100,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						36800,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						36900,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						37200,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						37300,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						37600,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						37700,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						38000,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						38100,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						38200,
+						1,
+						100,
+						"Wrench Note"
+					],
+					[
+						37800,
+						2,
+						100,
+						"Wrench Note"
+					],
+					[
+						37400,
+						1,
+						100,
+						"Wrench Note"
+					],
+					[
+						37000,
+						2,
+						100,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						38400,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						38600,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						38900,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						38800,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						39000,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						39100,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						39200,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						39400,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						39600,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						39700,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						39800,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						39900,
+						2,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						40000,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						40200,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						40400,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						40600,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						40800,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						41000,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						41200,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						41400,
+						0,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						41600,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						41800,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						42100,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						42000,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						42200,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						42300,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						42400,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						42600,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						42800,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						42900,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						43000,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						43100,
+						2,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						43200,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						43400,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						43600,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						43800,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						44000,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						44200,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						44400,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						44600,
+						0,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						44800,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						45066.6641,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						45333.332,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						45600,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						45866.6641,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						46133.332,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						46266.6641,
+						3,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						46400,
+						1,
+						100,
+						"Wrench Note"
+					],
+					[
+						46800,
+						1,
+						200,
+						"Wrench Note"
+					],
+					[
+						47200,
+						1,
+						300,
+						"Wrench Note"
+					],
+					[
+						47600,
+						1,
+						400,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						48000,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						48266.6641,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						48533.332,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						48800,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						49066.6641,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						49333.332,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						49466.6641,
+						3,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						49600,
+						1,
+						100,
+						"Wrench Note"
+					],
+					[
+						50000,
+						1,
+						200,
+						"Wrench Note"
+					],
+					[
+						50400,
+						1,
+						300,
+						"Wrench Note"
+					],
+					[
+						50800,
+						1,
+						400,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						51200,
+						0,
+						800,
+						"Wrench Note"
+					],
+					[
+						51200,
+						1,
+						800,
+						"Wrench Note"
+					],
+					[
+						52599.9961,
+						1,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						52799.9961,
+						3,
+						800,
+						"Wrench Note"
+					],
+					[
+						52799.9961,
+						1,
+						800,
+						"Wrench Note"
+					],
+					[
+						53600,
+						4,
+						700,
+						"Wrench Note"
+					],
+					[
+						53800,
+						5,
+						500,
+						"Wrench Note"
+					],
+					[
+						54000,
+						6,
+						300,
+						"Wrench Note"
+					],
+					[
+						54200,
+						7,
+						100,
+						"Wrench Note"
+					],
+					[
+						54000,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						54000,
+						2,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						54399.9961,
+						7,
+						800,
+						"Wrench Note"
+					],
+					[
+						54399.9961,
+						6,
+						800,
+						"Wrench Note"
+					],
+					[
+						54399.9961,
+						5,
+						800,
+						"Wrench Note"
+					],
+					[
+						54399.9961,
+						4,
+						800,
+						"Wrench Note"
+					],
+					[
+						54400,
+						2,
+						800,
+						"Wrench Note"
+					],
+					[
+						54400,
+						0,
+						800,
+						"Wrench Note"
+					],
+					[
+						55800,
+						3,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						56000,
+						2,
+						800,
+						"Wrench Note"
+					],
+					[
+						56000,
+						3,
+						800,
+						"Wrench Note"
+					],
+					[
+						57200,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						57200,
+						2,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						57600,
+						0,
+						800,
+						"Wrench Note"
+					],
+					[
+						57600,
+						1,
+						800,
+						"Wrench Note"
+					],
+					[
+						59000,
+						1,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						59999.9961,
+						4,
+						700,
+						"Wrench Note"
+					],
+					[
+						60199.9961,
+						5,
+						499.999969,
+						"Wrench Note"
+					],
+					[
+						60399.9961,
+						6,
+						300,
+						"Wrench Note"
+					],
+					[
+						60599.9961,
+						7,
+						0,
+						"Wrench Note"
+					],
+					[
+						59200,
+						1,
+						800,
+						"Wrench Note"
+					],
+					[
+						59200,
+						3,
+						800,
+						"Wrench Note"
+					],
+					[
+						60400,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						60400,
+						2,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						60799.9961,
+						7,
+						800,
+						"Wrench Note"
+					],
+					[
+						60799.9961,
+						6,
+						800,
+						"Wrench Note"
+					],
+					[
+						60799.9961,
+						5,
+						800,
+						"Wrench Note"
+					],
+					[
+						60799.9961,
+						4,
+						800,
+						"Wrench Note"
+					],
+					[
+						60799.9961,
+						0,
+						800,
+						"Wrench Note"
+					],
+					[
+						60799.9961,
+						2,
+						800,
+						"Wrench Note"
+					],
+					[
+						62200,
+						3,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						62399.9961,
+						2,
+						800,
+						"Wrench Note"
+					],
+					[
+						62399.9961,
+						3,
+						800,
+						"Wrench Note"
+					],
+					[
+						63649.9961,
+						5,
+						0,
+						"Wrench Note"
+					],
+					[
+						63749.9961,
+						7,
+						0,
+						"Wrench Note"
+					],
+					[
+						63799.9961,
+						6,
+						0,
+						"Wrench Note"
+					],
+					[
+						63849.9961,
+						5,
+						0,
+						"Wrench Note"
+					],
+					[
+						63949.9961,
+						5,
+						0,
+						"Wrench Note"
+					],
+					[
+						63200,
+						6,
+						0,
+						"Wrench Note"
+					],
+					[
+						63300,
+						7,
+						0,
+						"Wrench Note"
+					],
+					[
+						63400,
+						6,
+						0,
+						"Wrench Note"
+					],
+					[
+						63500,
+						7,
+						0,
+						"Wrench Note"
+					],
+					[
+						63600,
+						4,
+						0,
+						"Wrench Note"
+					],
+					[
+						63700,
+						6,
+						0,
+						"Wrench Note"
+					],
+					[
+						63900,
+						4,
+						0,
+						"Wrench Note"
+					],
+					[
+						63600,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						63600,
+						2,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						64000,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						64200,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						64400,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						64600,
+						3,
+						500,
+						"Wrench Note"
+					],
+					[
+						65200,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						65400,
+						0,
+						400,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						66666.6641,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						66933.33,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						66000,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						66200,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						66400,
+						0,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						67850,
+						0,
+						449.999969,
+						"Wrench Note"
+					],
+					[
+						67200,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						67300,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						67800,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						68400,
+						3,
+						100,
+						"Wrench Note"
+					],
+					[
+						68600,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						68700,
+						3,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						68800,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						69000,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						69200,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						69400,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						69600,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						69800,
+						3,
+						300,
+						"Wrench Note"
+					],
+					[
+						70200,
+						0,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						70400,
+						4,
+						0,
+						"Wrench Note"
+					],
+					[
+						70400,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						70600,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						70800,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						70600,
+						6,
+						0,
+						"Wrench Note"
+					],
+					[
+						70800,
+						7,
+						0,
+						"Wrench Note"
+					],
+					[
+						71000,
+						4,
+						500,
+						"Wrench Note"
+					],
+					[
+						71000,
+						3,
+						500,
+						"Wrench Note"
+					],
+					[
+						71600,
+						4,
+						0,
+						"Wrench Note"
+					],
+					[
+						71600,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						71800,
+						7,
+						400,
+						"Wrench Note"
+					],
+					[
+						71800,
+						0,
+						400,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						73066.6641,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						72400,
+						7,
+						0,
+						"Wrench Note"
+					],
+					[
+						72600,
+						5,
+						0,
+						"Wrench Note"
+					],
+					[
+						72800,
+						7,
+						0,
+						"Wrench Note"
+					],
+					[
+						73065,
+						4,
+						0,
+						"Wrench Note"
+					],
+					[
+						73300,
+						6,
+						0,
+						"Wrench Note"
+					],
+					[
+						73300,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						72800,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						72600,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						72400,
+						0,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						74250,
+						7,
+						449.999969,
+						"Wrench Note"
+					],
+					[
+						74250,
+						0,
+						449.999969,
+						"Wrench Note"
+					],
+					[
+						73600,
+						4,
+						0,
+						"Wrench Note"
+					],
+					[
+						73700,
+						6,
+						0,
+						"Wrench Note"
+					],
+					[
+						73600,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						73700,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						74200,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						74200,
+						6,
+						0,
+						"Wrench Note"
+					],
+					[
+						74800,
+						4,
+						100,
+						"Wrench Note"
+					],
+					[
+						74800,
+						3,
+						100,
+						"Wrench Note"
+					],
+					[
+						75000,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						75100,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						75100,
+						4,
+						0,
+						"Wrench Note"
+					],
+					[
+						75000,
+						6,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						76200,
+						4,
+						300,
+						"Wrench Note"
+					],
+					[
+						76200,
+						3,
+						300,
+						"Wrench Note"
+					],
+					[
+						76000,
+						6,
+						0,
+						"Wrench Note"
+					],
+					[
+						76000,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						75800,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						75800,
+						4,
+						0,
+						"Wrench Note"
+					],
+					[
+						75600,
+						7,
+						0,
+						"Wrench Note"
+					],
+					[
+						75600,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						75400,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						75400,
+						5,
+						0,
+						"Wrench Note"
+					],
+					[
+						75200,
+						7,
+						0,
+						"Wrench Note"
+					],
+					[
+						75200,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						76600,
+						7,
+						0,
+						"Wrench Note"
+					],
+					[
+						76600,
+						0,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						77600,
+						4,
+						700,
+						"Wrench Note"
+					],
+					[
+						76800,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						76900,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						77000,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						77100,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						77200,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						77300,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						77400,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						77500,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						77600,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						77700,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						77800,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						77900,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						78100,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						78300,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						78200,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						78000,
+						0,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						78400,
+						7,
+						700,
+						"Wrench Note"
+					],
+					[
+						79200,
+						5,
+						400,
+						"Wrench Note"
+					],
+					[
+						78400,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						78600,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						78500,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						78700,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						78800,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						78900,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						79000,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						79100,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						79200,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						79400,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						79300,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						79500,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						79600,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						79700,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						79800,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						79900,
+						1,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						80800,
+						4,
+						700,
+						"Wrench Note"
+					],
+					[
+						80000,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						80100,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						80200,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						80300,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						80400,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						80500,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						80600,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						80700,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						80800,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						80900,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						81000,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						81100,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						81300,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						81500,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						81400,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						81200,
+						0,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						81600,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						81800,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						81700,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						81900,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						82000,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						82100,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						82200,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						82300,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						82400,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						82600,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						82500,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						82700,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						82800,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						82900,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						83000,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						83100,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						81600,
+						4,
+						700,
+						"Wrench Note"
+					],
+					[
+						82400,
+						6,
+						400,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						83200,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						83300,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						83400,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						83500,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						83600,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						83700,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						83800,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						83900,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						84000,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						84100,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						84200,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						84300,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						84400,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						84500,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						84600,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						84700,
+						1,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						84933.33,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						85066.6641,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						85333.33,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						85466.6641,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						85733.33,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						85866.6641,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						86133.33,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						86266.6641,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						85600,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						85200,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						84800,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						86000,
+						0,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						86400,
+						6,
+						600,
+						"Wrench Note"
+					],
+					[
+						87200,
+						4,
+						700,
+						"Wrench Note"
+					],
+					[
+						86700,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						86600,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						86500,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						86400,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						87100,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						87000,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						86900,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						86800,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						87500,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						87400,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						87300,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						87200,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						87900,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						87800,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						87700,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						87600,
+						1,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						88133.33,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						88266.6641,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						88533.33,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						88666.6641,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						88933.33,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						89066.6641,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						89333.33,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						89466.6641,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						88800,
+						5,
+						600,
+						"Wrench Note"
+					],
+					[
+						88000,
+						7,
+						600,
+						"Wrench Note"
+					],
+					[
+						89200,
+						0,
+						0,
+						"Wrench Note"
+					],
+					[
+						88800,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						88400,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						88000,
+						0,
+						0,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						89600,
+						0,
+						3200,
+						"Wrench Note"
+					],
+					[
+						90000,
+						3,
+						300,
+						"Wrench Note"
+					],
+					[
+						90400,
+						2,
+						300,
+						"Wrench Note"
+					],
+					[
+						90800,
+						1,
+						300,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						91200,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						91400,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						91600,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						91800,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						92000,
+						2,
+						300,
+						"Wrench Note"
+					],
+					[
+						92400,
+						3,
+						300,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						92800,
+						0,
+						3200,
+						"Wrench Note"
+					],
+					[
+						93200,
+						3,
+						300,
+						"Wrench Note"
+					],
+					[
+						93600,
+						2,
+						300,
+						"Wrench Note"
+					],
+					[
+						94000,
+						1,
+						300,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						95000,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						94800,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						94600,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						94400,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						95200,
+						2,
+						300,
+						"Wrench Note"
+					],
+					[
+						95600,
+						3,
+						300,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						96000,
+						0,
+						2300,
+						"Wrench Note"
+					],
+					[
+						96400,
+						3,
+						300,
+						"Wrench Note"
+					],
+					[
+						96800,
+						2,
+						300,
+						"Wrench Note"
+					],
+					[
+						97200,
+						1,
+						300,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						98200,
+						1,
+						0,
+						"Wrench Note"
+					],
+					[
+						98000,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						97800,
+						3,
+						0,
+						"Wrench Note"
+					],
+					[
+						97600,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						98400,
+						1,
+						700,
+						"Wrench Note"
+					],
+					[
+						98400,
+						2,
+						300,
+						"Wrench Note"
+					],
+					[
+						98800,
+						3,
+						300,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						100000,
+						3,
+						300,
+						"Wrench Note"
+					],
+					[
+						100000,
+						1,
+						300,
+						"Wrench Note"
+					],
+					[
+						100400,
+						2,
+						300,
+						"Wrench Note"
+					],
+					[
+						100400,
+						0,
+						300,
+						"Wrench Note"
+					],
+					[
+						99600,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						99800,
+						2,
+						0,
+						"Wrench Note"
+					],
+					[
+						99200,
+						2,
+						300,
+						"Wrench Note"
+					],
+					[
+						99200,
+						0,
+						700,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						100800,
+						1,
+						700,
+						"Wrench Note"
+					],
+					[
+						101200,
+						2,
+						300,
+						"Wrench Note"
+					],
+					[
+						100800,
+						3,
+						300,
+						"Wrench Note"
+					],
+					[
+						101600,
+						3,
+						300,
+						"Wrench Note"
+					],
+					[
+						102000,
+						2,
+						300,
+						"Wrench Note"
+					],
+					[
+						101600,
+						1,
+						700,
+						"Wrench Note"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 150
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 150,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"player2": "roboscrew",
+		"player3": null,
+		"song": "Test",
+		"stage": "placeholder",
+		"needsVoices": true,
+		"validScore": true,
+		"bpm": 150,
+		"speed": 1.6
+	}
+}
