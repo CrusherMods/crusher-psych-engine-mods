@@ -25,6 +25,7 @@ function goodNoteHit(id, noteData, noteType, isSustainNote)
 	if noteType == 'Wrench Note' then
 		characterPlayAnim('bf', 'dodge', false)
 		characterPlayAnim('dad', 'attack', false)
+		characterPlayAnim('gf', 'duck', false)
 --		triggerEvent('Play Animation', 'dodge', 'bf')
 --		triggerEvent('Play Animation', 'attack', 'dad')
 	end
@@ -36,5 +37,6 @@ function noteMiss(id, noteData, noteType, isSustainNote)
 	if noteType == 'Wrench Note' then
 		characterPlayAnim('bf', 'hurt', false)
 		characterPlayAnim('dad', 'attack', false)
+		characterPlayAnim('gf', 'scared', false)
 	end
 end
