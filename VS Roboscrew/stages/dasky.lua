@@ -19,8 +19,6 @@ function onCreate()
 	addLuaSprite('sun', false);
 	addLuaSprite('cloudfront', false);
 	addLuaSprite('cloudmain', false);
-	
-	setProperty('gf.visible', false);
 
 	close(true);
 end
